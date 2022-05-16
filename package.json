@@ -1,13 +1,17 @@
 {
   "name": "react-native-section-list-grid",
-  "version": "1.0.0",
-  "private": true,
+  "version": "1.0.1",
+  "private": false,
   "scripts": {
     "android": "react-native run-android",
     "ios": "react-native run-ios",
     "start": "react-native start",
     "test": "jest",
     "lint": "eslint ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LoganRaja/SectionListGrid/react-native-section-list-grid.git"
   },
   "dependencies": {
     "react": "17.0.2",
