@@ -26,10 +26,10 @@ export default SectionListGrid = (props) => {
 SectionListGrid.defaultProps = {
     data: [],
     numItemsRow: 3,
-    sectionHeaderStyle: {},
-    style: {},
     itemViewStyle: {},
-    itemTextStyle: {},
+    listStyle: {},
+    cellStyle: {},
+    headerStyle: {},
     renderItem: (subObj, subIndex) => {
         return <Text style={{ margin: 5 }} key={subIndex}>{subObj}</Text>
     },

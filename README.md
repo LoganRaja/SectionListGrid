@@ -2,7 +2,8 @@
 
 ![platforms](https://img.shields.io/badge/platforms-Android%20|%20iOS-brightgreen.svg)
 [![npm](https://img.shields.io/npm/v/react-native-grid-list.svg)](https://www.npmjs.com/package/react-native-grid-list)
-![license](https://img.shields.io/npm/l/react-native-grid-list.svg)
+# Attachments
+(./examples/screenshots/first.png) (./examples/screenshots/second.png) (./examples/screenshots/third.png)
 
 ## Installation
 

@@ -1,6 +1,6 @@
 {
   "name": "react-native-section-list-grid",
-  "version": "1.0.1",
+  "version": "1.0.3",
   "private": false,
   "scripts": {
     "android": "react-native run-android",
@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/LoganRaja/SectionListGrid/react-native-section-list-grid.git"
+    "url": "https://github.com/LoganRaja/SectionListGrid/"
   },
   "dependencies": {
     "react": "17.0.2",
@@ -38,5 +38,6 @@
     "header-list"
   ],
   "author": "loganathan rajamani",
-  "license": "MIT"
+  "license": "MIT",
+  "homepage": "https://github.com/LoganRaja/SectionListGrid/blob/master/README.md"
 }
