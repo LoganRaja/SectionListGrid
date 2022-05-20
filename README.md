@@ -1,5 +1,6 @@
 # SectionListGrid
 
+We have a list component in react native, but we have a section list component in react native as well, but we don't have a component for section grid list view. It helps to easily create a grid list view with your own style and customize the view.
 
 # Attachments
 ![Screenshot](https://github.com/LoganRaja/SectionListGrid/blob/master/examples/screenshots/first.png)![Screenshot](https://github.com/LoganRaja/SectionListGrid/blob/master/examples/screenshots/second.png)![Screenshot](https://github.com/LoganRaja/SectionListGrid/blob/master/examples/screenshots/third.png)
