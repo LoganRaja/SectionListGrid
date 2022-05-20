@@ -65,7 +65,7 @@ export default ExampleOne = () => {
 };
 ```
 
-Check the code [here](.examples/ExampleOne.js)
+Check the code [here](./examples/ExampleOne.js)
 
 SectionListGrid.defaultProps = {
     data: [],
