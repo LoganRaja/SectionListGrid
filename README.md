@@ -88,7 +88,7 @@ SectionListGrid.defaultProps = {
 
 | Prop                            |              Default               |      Type       | Description                                |
 | :------------------------------ | :--------------------------------: | :-------------: | :----------------------------------------- |
-| data                            |       [](Required)                 |`array`          | Data to use in renderSectionList           |
+| data                            |       [] _required_                          |`array`          | Data to use in renderSectionList           |
 | numItemsRow                     |       3                            |`number`         | number of item per row                     |
 | itemViewStyle                   |       {}                           |`ViewPropTypes`  | style of grid item view                    |
 | listStyle                       |       {}                           |`ViewPropTypes`  | style of entire listview                   |
