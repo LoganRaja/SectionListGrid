@@ -1,11 +1,8 @@
 # SectionListGrid
 
-![Screenshot](https://github.com/LoganRaja/SectionListGrid/blob/master/examples/screenshots/first.png)![Screenshot](https://github.com/LoganRaja/SectionListGrid/blob/master/examples/screenshots/second.png)![Screenshot](https://github.com/LoganRaja/SectionListGrid/blob/master/examples/screenshots/third.png)
-# Attachments
 
-[](./examples/screenshots/first.png)
-[](./examples/screenshots/second.png)
- [](./examples/screenshots/third.png)
+# Attachments
+![Screenshot](https://github.com/LoganRaja/SectionListGrid/blob/master/examples/screenshots/first.png)![Screenshot](https://github.com/LoganRaja/SectionListGrid/blob/master/examples/screenshots/second.png)![Screenshot](https://github.com/LoganRaja/SectionListGrid/blob/master/examples/screenshots/third.png)
 
 ## Installation
 
