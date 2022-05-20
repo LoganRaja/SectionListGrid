@@ -1,10 +1,11 @@
 # SectionListGrid
 
-![platforms](https://img.shields.io/badge/platforms-Android%20|%20iOS-brightgreen.svg)
-[![npm](https://img.shields.io/npm/v/react-native-grid-list.svg)](https://www.npmjs.com/package/react-native-grid-list)
+![Screenshot](https://github.com/LoganRaja/SectionListGrid/blob/master/examples/screenshots/first.png)![Screenshot](https://github.com/LoganRaja/SectionListGrid/blob/master/examples/screenshots/second.png)![Screenshot](https://github.com/LoganRaja/SectionListGrid/blob/master/examples/screenshots/third.png)
 # Attachments
 
-[](./examples/screenshots/first.png)[](./examples/screenshots/second.png) [](./examples/screenshots/third.png)
+[](./examples/screenshots/first.png)
+[](./examples/screenshots/second.png)
+ [](./examples/screenshots/third.png)
 
 ## Installation
 
