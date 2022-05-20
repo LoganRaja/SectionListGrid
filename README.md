@@ -67,22 +67,6 @@ export default ExampleOne = () => {
 
 Check the code [here](./examples/ExampleOne.js)
 
-SectionListGrid.defaultProps = {
-    data: [],
-    numItemsRow: 3,
-    sectionHeaderStyle: {},
-    style: {},
-    itemViewStyle: {},
-    itemTextStyle: {},
-    renderItem: (subObj, subIndex) => {
-        return <Text style={{ margin: 5 }} key={subIndex}>{subObj}</Text>
-    },
-    renderHeader: (obj, index, headerStyle) => {
-        return <Text style={[{ margin: 5 }, headerStyle]}>{obj.title}</Text>
-    }
-}
-
-
 
 ## Props
 
